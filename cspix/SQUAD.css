@@ -1,0 +1,69 @@
+
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+h2{
+	font-style: italic;
+}
+
+.navi li{
+	float: left;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.navi ul{
+ 	list-style-type: none;
+	overflow: hidden;
+	margin: 0px;
+}
+.navi {
+	background-color: #111D5E;
+    color: #06FF00;
+	border: solid;
+}
+
+.navi a {
+    text-decoration: none;
+    color: #06FF00;
+}
+
+.navi a:hover{
+	color: gold;
+}
+
+.pix{
+	height: 30%;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+body{
+	background-image: url("images/divine.png");
+}
+
+article{
+	color: #06FF00;
+	border-style: solid;
+	padding: 10px;
+}
+
+#divine {
+    background-image: url("images/profane.png");
+}
+#violence{
+	background-image: url("images/Skull.png");
+}
+#sopurge{
+	background-image: url("images/blured.png");
+}
+#cruel{
+	background-image: url("images/blulu.png");
+}
